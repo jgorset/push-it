@@ -1,0 +1,3 @@
+#!/bin/sh
+afplay ~/Music/push-it.m4a &
+exit 0
