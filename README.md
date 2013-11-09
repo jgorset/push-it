@@ -1,7 +1,7 @@
 # Push it
 
-Installs the 80's classic ["Push it" by Salt-n-Pepa](http://www.youtube.com/watch?v=YleXlgHI1oM) as
-a Git commit hook in the current working directory.
+Installs the 80s classic [Push it](http://www.youtube.com/watch?v=YleXlgHI1oM) by Salt-n-Pepa as
+a Git commit hook the current working directory.
 
     $ curl http://raw.github.com/jgorset/push-it/master/install.sh | sh
 
