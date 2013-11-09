@@ -1,3 +1,13 @@
 #!/bin/sh
+
+function pin_volume() {
+  while true; do
+    osascript -e "set Volume 10"
+    sleep 1
+  done
+}
+
 afplay ~/Music/push-it.m4a &
+pin_volume &
+
 exit 0
