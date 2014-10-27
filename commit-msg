@@ -7,7 +7,7 @@ function pin_volume() {
   done
 }
 
-afplay ~/Music/push-it.m4a &
+afplay ~/Music/push-it.mp3 &
 pin_volume &
 
 exit 0
