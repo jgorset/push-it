@@ -1,9 +1,4 @@
-```
-   ___  __  ________ __    __________
-  / _ \/ / / / __/ // /   /  _/_  __/
- / ___/ /_/ /\ \/ _  /   _/ /  / /
-/_/   \____/___/_//_/   /___/ /_/
-```
+# Push it
 
 There's always that one guy who forgets to push his commits before he goes
 home for the day. Help him remember by playing an '80s classic on every commit. An
@@ -18,6 +13,21 @@ home for the day. Help him remember by playing an '80s classic on every commit. 
 
 ```sh
 $ curl -s --location http://raw.github.com/jgorset/push-it/master/install.sh | sh
+```
+
+```sh
+   ___  __  ________ __    __________
+  / _ \/ / / / __/ // /   /  _/_  __/
+ / ___/ /_/ /\ \/ _  /   _/ /  / /
+/_/   \____/___/_//_/   /___/ /_/
+
+Downloading songs...
+######################################################################## 100.0%
+######################################################################## 100.0%
+
+Applying commit-msg hook...
+Applying pre-push hook...
+Done.
 ```
 
 ## I love you
