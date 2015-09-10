@@ -1,7 +1,7 @@
-   ___  __  ________ __    __________
-  / _ \/ / / / __/ // /   /  _/_  __/
- / ___/ /_/ /\ \/ _  /   _/ /  / /
-/_/   \____/___/_//_/   /___/ /_/
+       ___  __  ________ __    __________
+      / _ \/ / / / __/ // /   /  _/_  __/
+     / ___/ /_/ /\ \/ _  /   _/ /  / /
+    /_/   \____/___/_//_/   /___/ /_/
 
 There's always that one guy who forgets to push his commits before he goes
 home for the day. Help him remember by playing an '80s classic on every commit. An
