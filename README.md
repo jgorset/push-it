@@ -11,7 +11,7 @@ home for the day. Help him remember by playing an '80s classic on every commit. 
 
 #### Starring
 
-* [Push it - Salt-N-Pepa](http://www.youtube.com/watch?v=YleXlgHI1oM) and
+* [Push it - Salt-N-Pepa](http://www.youtube.com/watch?v=YleXlgHI1oM)
 * [Push It To The Limit - Paul Engemann](https://www.youtube.com/watch?v=KO2VIuDHzxM)
 
 ## Installation
