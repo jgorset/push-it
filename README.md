@@ -2,6 +2,7 @@
 
 Installs the 80s classic [Push it](http://www.youtube.com/watch?v=YleXlgHI1oM) by Salt-n-Pepa as
 a Git commit hook the current working directory. Oh, and it cranks the volume to 10. Every second.
+Which can't be stopped. Unless you push it.
 
     $ curl -s --location http://raw.github.com/jgorset/push-it/master/install.sh | sh
 
