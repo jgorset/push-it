@@ -1,0 +1,6 @@
+#!/bin/sh
+cat ./git/pit_1 | xargs kill -9 > /dev/null 2>&1
+cat ./git/pit_2 | xargs kill -9 > /dev/null 2>&1
+rm -f ./git/pit_1 > /dev/null 2>&1
+rm -f ./git/pit_2 > /dev/null 2>&1
+exit 0

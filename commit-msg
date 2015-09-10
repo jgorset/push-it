@@ -8,6 +8,9 @@ function pin_volume() {
 }
 
 afplay ~/Music/push-it.mp3 &
+echo "$!" > ./git/pit_1
+
 pin_volume &
+echo "$!" > ./git/pit_2
 
 exit 0
