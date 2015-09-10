@@ -11,11 +11,11 @@ home for the day. Help him remember by playing an '80s classic on every commit. 
 
 ## Installation
 
-```sh
+```
 $ curl -s --location http://raw.github.com/jgorset/push-it/master/install.sh | sh
 ```
 
-```sh
+```
    ___  __  ________ __    __________
   / _ \/ / / / __/ // /   /  _/_  __/
  / ___/ /_/ /\ \/ _  /   _/ /  / /
