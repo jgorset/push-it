@@ -20,7 +20,7 @@ home for the day. Help him remember by playing an '80s classic on every commit. 
 $ curl -s --location http://raw.github.com/jgorset/push-it/master/install.sh | sh
 ```
 
-# I love you
+## I love you
 
 Johannes Gorset made this. You should [tweet me](http://twitter.com/jgorset>) if you can't get it
 to work. In fact, you should tweet me anyway.
