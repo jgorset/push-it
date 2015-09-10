@@ -9,12 +9,12 @@ There's always that one guy who forgets to push his commits before he goes
 home for the day. Help him remember by playing an '80s classic on every commit. An
 '80s classic that pins the volume to 10 and can't be stopped until it's pushed.
 
-### Starring
+#### Starring
 
 * [Push it - Salt-N-Pepa](http://www.youtube.com/watch?v=YleXlgHI1oM) and
 * [Push It To The Limit - Paul Engemann](https://www.youtube.com/watch?v=KO2VIuDHzxM)
 
-### Installation
+## Installation
 
 ```sh
 $ curl -s --location http://raw.github.com/jgorset/push-it/master/install.sh | sh
