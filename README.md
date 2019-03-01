@@ -7,7 +7,7 @@ home for the day. Help him remember by playing an '80s classic on every commit. 
 #### Starring
 
 * [Push It](http://www.youtube.com/watch?v=YleXlgHI1oM)
-* [Push It To The Limit](https://www.youtube.com/watch?v=KO2VIuDHzxM)
+* [Push It To The Limit](https://www.youtube.com/watch?v=9D-QD_HIfjA)
 
 ## Installation
 
